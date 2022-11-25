@@ -1,0 +1,15 @@
+*.pyc
+*~
+__pycache__
+.env
+myvenv/
+venv/
+db.sqlite3
+/static/
+._*
+.DS_Store
+.fseventsd
+Spotlight-V100
+.vscode/
+.history/
+*.code-workspace
